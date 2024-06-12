@@ -19,7 +19,9 @@
        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
        <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/>
        <img src="https://img.shields.io/badge/GoogleFonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white"/>
-       <img src="https://img.shields.io/badge/Upsplash-CC6699?style=flat-square&logo=unsplash&logoColor=white"/>
+       <br/>
+       <br/>
+       <img src="https://img.shields.io/badge/Github-CC6699?style=flat-square&logo=githubh&logoColor=white"/>
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
