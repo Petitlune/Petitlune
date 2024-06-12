@@ -18,6 +18,7 @@
        <br/>
        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
         <img src="https://img.shields.io/badge/Github-CC6699?style=flat-square&logo=Github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
        <br/>
        <br/>
          <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/>
