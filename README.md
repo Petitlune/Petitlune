@@ -13,7 +13,7 @@
 
 <p>
    <div align="center">
-       <b>💻 # Main Skill & Language 💻</b>
+       <h2><b>💻 Main Skill & Language 💻</b></h2>
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
@@ -41,7 +41,7 @@
     <br/>
 <p>
     <div align="center">
-        <b>🚀 # Cloud & Deploy 🚀</b>
+        <h2><b>🚀 Cloud & Deploy 🚀</b></h2>
         <br/>
         <br/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
