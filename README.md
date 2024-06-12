@@ -41,7 +41,7 @@
     <br/>
     <p>
     <div align="center">
-    <b>🎻 # Git-Hub Stats 🎻</b>
+     <h2><b>🎻 # Git-Hub Stats 🎻</b></h2>
     <br/>
 </p>
 
