@@ -34,9 +34,6 @@
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-       <br/>
-       <br/>
-       <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
    </div>
 </p>
     <br/>
@@ -48,7 +45,6 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
     </div>
 </p>
     <br/>
